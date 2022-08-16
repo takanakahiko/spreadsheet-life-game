@@ -1,4 +1,4 @@
-# spreadsheet-twitter-client
+# spreadsheet-life-game
 
 [![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)
 
